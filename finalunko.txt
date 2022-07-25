@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-main
-=======
-unko2 final
->>>>>>> unko2
+a
